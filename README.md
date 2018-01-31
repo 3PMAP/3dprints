@@ -1,2 +1,2 @@
 # 3dprints
-Alle 3D-print source voor de prothesehand. 
+All 3D prints we used for our project
